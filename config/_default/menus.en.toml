@@ -13,10 +13,15 @@
 [[main]]
   name = "Home"
   pageRef = "index"
+  weight = -2
+
+[[main]]
+  name = "About Me"
+  pageRef = "about"
   weight = -1
 
 [[main]]
-  name = "Blog"
+  name = "Posts"
   pageRef = "posts"
   weight = 1
 
