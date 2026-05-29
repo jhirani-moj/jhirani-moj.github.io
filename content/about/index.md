@@ -7,80 +7,64 @@ showTableOfContents: true
 layoutBackgroundHeaderSpace: false
 showZenMode: false
 showAuthorBottom: true
-draft: true #### EDIT THEN COMMENT OUT
+draft: false #### EDIT THEN COMMENT OUT
 ---
 
-Hello there! 👋 **I’m Utrodus Said Al Baqi**, a software engineer with a passion for building beautiful, user-friendly applications using **Flutter**. 
+{{< button href="https://drive.google.com/file/d/1fUEK3Zdo9S8oYj56u1TQLCMQPWo6AgKY/view" target="_blank" >}}
+My CV
+{{< /button >}}
 
-Whether it’s for Android, iOS, or the web, I focus on creating apps that not only look great but also **make life easier for users**.
+Hi! 👋 **I’m Jayen Hirani**
 
-> Every project I take on is an **opportunity** to create technology that makes a **positive impact**, blending technical skill with thoughtful design to deliver something both **functional** and **visually stunning**.
+I help organisations navigate complexity. My career has been defined by a simple, consistent mission: **taking high-stakes, ambiguous problems and turning them into clear, actionable strategies**.
 
-Originally from **Blitar, Indonesia**, I currently **work remotely** 👨‍💻. This setup gives me the flexibility to deliver high-quality results, whether for **full-time** roles or **freelance** projects.
+Over the last eight years, I’ve moved between the **heart of policy** and the **mechanics of delivery**. I’ve built innovative systems to track national trade flows, redesigned financial models to eliminate bottlenecks, and **led the kind of change that turns "days of work" into "minutes of processing"**.
 
-I’m **hardworking**, **goal-driven**, and always **curious** about new technology. I love diving into research and experimentation when something catches my interest, constantly learning and growing along the way.
-
-Though I tend to be a bit of a **perfectionist**, I’ve found a balance by focusing on getting things done first and fine-tuning as needed.
+I specialise in **bridging the gap between technical data and human decision-making**. Whether it’s through developing robust strategy, facilitating change management, or just plain-English communication, my goal is always the same: **cut through the noise, build consensus, and deliver solutions that stick**.
 
 {{< lead >}}
-Let’s create something great together!
+I’m currently looking to bring this strategic influence and change leadership to new and ambitious challenges.
 {{< /lead >}}
 
+
 ## My Skills
-
-### Proficient
-- **Languages & Frameworks**: Dart, Flutter, Flutter Stacked Framework
-- **State Management**: BLoC, Provider, GetX, setState, Inherited Widget
-- **Architecture**: Clean Architecture, MVVM, BLoC Pattern
-- **Best Practices**: Design Patterns, Clean Code
-- **Development**: RESTful API Integration, Responsive Design, Flutter Animation, Flutter Dev Tools, Firebase
-- **Testing**: Unit Testing, Widget Testing
-- **Tools**: Git, GitHub, Flutter Flow, Visual Studio Code, Android Studio, Xcode, Postman, Firebase Console
-
-### Familiar
-- **Languages & Frameworks**: Python, FastAPI, Django, Java
-- **Testing & Deployment**: Integration Testing, Continuous Integration, Continuous Deployment
-- **Development Process**: Agile Development, Research & Development, Technical Documentation
-- **Project Management**: Jira, Trello
-
-
-
+- **Strategic Translation & Influence**: Expert at distilling complex work into clear narratives that align multi-disciplinary teams and drive senior decision‑making.
+- **Systems Thinking & Problem-Framing**: Skilled in framing ambiguous problems, facilitating workshops to identify root causes, and designing structured solutions.
+- **Stakeholder Alignment & Influence**: Trusted advisor who builds organisational capability by bridging the gap between technical, policy, and operational teams to ensure shared understanding and goals.
+- **Change Leadership & Team Resilience**: Advocate for inclusive culture, designing data-led wellbeing initiatives that improved staff engagement by 30% during periods of structural change.
+- **Technical Fluency & Evidence-Led Strategy**: Leveraging Python, SQL, Power BI and AI tools like Copilot within risk frameworks to challenge assumptions and enable high-impact decision-making.
 
 ## Work Experience
 
--  **Freelance Flutter Developer** - *Multiple Clients*, Jan 2021 - Present
--  **Freelance Flutter Engineer** - *PT Rekeningku Dotcom Indonesia*, Jan 2024 - Mar 2024 · 3 mos
--  **Middle Flutter Developer & Flutter Engineer** - *PT Glovory Technologies Indonesia*, Oct 2022 - Mar 2023 · 6 mos 
--  **Flutter Developer** - *Ediide Infografika*, Apr 2018 - Mar 2021 · 3 yrs
-
-{{< alert icon="mug-hot" cardColor="#27134AFF" iconColor="#FFFFFFFF" textColor="#f1faee" >}}
-✨ Explore my full experience in [My Resume](https://drive.google.com/file/d/16b0HRFwY3Y7WTN1iESdvgO_IM4gZLNZm/view)
-{{< /alert >}}
+-  **Senior Data Scientist (Senior Strategic Advisor)** - *Data Acquisition Team – Department for Business and Trade*, Oct 2021 - Apr 2026
+-  **Data Scientist (Operational Transformation Analyst)** - *Corporate Data Science Team – Ministry of Justice*, Aug 2020 - Oct 2021
+-  **Modelling Analyst (Strategic Planning & Risk Analyst)** - *Student Finance Modelling Team – Department for Education*, May 2019 - Jul 2020
+-  **Trade Operations Analyst (Operational Readiness Analyst)** - *EU Exit Analysis Team – Department for Environment, Food & Rural Affairs*, Sep 2017 - Apr 2019
 
 
 ## Education
 
-**[Nahdlatul Ulama University Blitar](https://unublitar.ac.id/)**  
-*2018 - 2023*  
-**Major:** Computer Science  
-**Grade:** 3.76
+**University of Kent**  
+**Degree:** BSc Financial Mathematics with a Year in Industry <br>
+**Grade:** First Class with Honours <br>
+*2012 - 2016*  
 
-### Relevant Coursework
-Introduction to Logic & Programming, Algorithms & Data Structures, Object-Oriented Programming, Java, Databases, Software Engineering, Human-Computer Interaction, Mobile Application Development, Artificial Intelligence
-
-### Final Year Project
-Developed a Quran verse search application focusing on lexical, semantic, and combined search approaches. This project was built using Dart, Flutter, Python, and FastAPI.
+- Studied a blend of mathematics, economics, and actuarial science, gaining foundational knowledge in statistical modelling, risk, and financial systems.
+- **Modules included**: Business Economics, Financial Mathematics, Finance and Financial Reporting, Portfolio Theory and Asset Pricing Models, Probability and Statistics for Actuarial Science, Statistics for Insurance.
+- **Awarded**: School of Mathematics, Statistics & Actuarial Science Prize for academic distinction.
   
+
 ## My Journey
 
-- 🔭 Currently focused in Cross-Platform App Development, I am working on projects that span Android, iOS, and Web.  
-- 🌱 My ongoing learning journey includes delving deeper into Backend Development. 
-- 🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of Multi-Platform App Development.  
-- 🗿 Fun Fact: As an early adopter of Dart & Flutter, I have been exploring its capabilities for over three years.
+- 📚 Studied Financial Mathematics in the hopes of becoming an Actuary
+- 💻 Instead I became a Data Analyst then Data Scientist for the UK Civil Service. Here is where I learnt that I love problem solving and communicating with stakeholders, I also learnt that I'm not the best at coding 😂 
+- 💚 I became a mental health and wellbeing champion, regularly giving talks, running workshops and advocating for my division at a human and personal level
+- 💵 I'm also (very randomly) qualified as a financial advisor
+- ➡️ Looking to change careers, take my transferrable skills in analysis and transition them into roles in strategy, change management and transformation
 
 
 ## Personal Interests
 
-> Outside of work, I enjoy exploring new technologies through research and unwinding by playing games on my PC or PlayStation. 
-> 
-> These activities not only help me maintain a balanced lifestyle but also bring fresh perspectives and inspiration to my professional endeavors.
+> Outside of work, I am a huge advocate for comics, it's a vastly misunderstood medium that blends art and storytelling in ways few other formats can. It’s my go-to for thoughtful, emotional and complex narratives. When you see me, ask for recommendations!
+>
+> I’m also an avid walker and a lifelong learner. You’ll most likely spot me on a long walk, usually accompanied by a podcast or a favourite album on full blast.
