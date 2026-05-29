@@ -4,16 +4,24 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/2026/05/agilepm/</loc>
+    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
