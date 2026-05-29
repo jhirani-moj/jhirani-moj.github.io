@@ -15,7 +15,7 @@ secondaryLogo = "img/secondary-logo.png"
 [params.author]
 image = "profile.jpg"
 name = "Jayen Hirani"
-headline = "Strategic Advisor | Organisational Design & Change | Influencing Ministers and Directors"
+headline = "Strategic Advisor | Organisational Design & Change | Influencing Senior Leaders"
 bio = "Drove national trade strategy & scaled institutional L&D capability for 200+ professionals."
 links = [{ email = "mailto:jayenhirani@gmail.com" }, { linkedin = "https://www.linkedin.com/in/jayenhirani" },]
 

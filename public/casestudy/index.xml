@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casestudies on Jayen Hirani</title>
+    <link>http://localhost:1313/casestudy/</link>
+    <description>Recent content in Casestudies on Jayen Hirani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Jayen Hirani</copyright>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/casestudy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test2</title>
+      <link>http://localhost:1313/casestudy/test2/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/casestudy/test2/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
